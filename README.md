@@ -1,6 +1,6 @@
 # 💫 About Me:
 Graduated from Ural Federal University (2018-2022)
-Worked as a backend programmer in the Lomonosov School project (June 2021 to September 2022) [Lomonosov School]([lomonosov.school](https://lomonosov.school/))
+Worked as a backend programmer in the Lomonosov School project (June 2021 to September 2022) [Lomonosov School](https://lomonosov.school)
 
 
 ## 🌐 Socials:
