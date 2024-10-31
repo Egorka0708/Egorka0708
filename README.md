@@ -1,8 +1,8 @@
 # 💫 About Me:
 - Graduated from Ural Federal University (2018-2022)
-- Worked as a backend programmer in the Everside as junior backend developer (June 2021 to September 2022) [Everside](https://everside.tech/)
-- Worked as a backend programmer in ther Rulyou.ru as a middle backend developer (December 2022 - November 2023) [Rulyou.ru](https://rulyou.ru/)
-- Now work in cool secret company :) (November 2023 - now) (NDA)
+- Worked as a junior backend developer in the Everside (June 2021 to September 2022) [Everside](https://everside.tech/)
+- Worked as a middle backend developer in the Rulyou.ru (December 2022 - November 2023) [Rulyou.ru](https://rulyou.ru/)
+- Now work as a middle+ backend developer in cool secret company :) (November 2023 - now) (NDA)
 
 
 # 🌐 Links:
